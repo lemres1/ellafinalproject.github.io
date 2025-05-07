@@ -187,13 +187,13 @@ footer a {
     transform: translateX(0);
   }
   33.33% {
-    transform: translateX(-100%); /* Moves to the second image */
+    transform: translateX(-100%);
   }
   66.66% {
-    transform: translateX(-200%); /* Moves to the third image */
+    transform: translateX(-200%);
   }
   100% {
-    transform: translateX(0); /* Moves back to the first image */
+    transform: translateX(0);
   }
 }
 
